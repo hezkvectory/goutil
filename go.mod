@@ -1,4 +1,4 @@
-module github.com/Jordanzuo/goutil
+module github.com/hezkvectory/goutil
 
 go 1.14
 
